@@ -20,3 +20,10 @@ You should only **touch** the part after the colon (":"), in this case being "Fa
 
 
 **THERE IS NO PAYMENT FOR HELPING US.**
+
+## Translated Languages
+
+- English
+- French
+- Russian
+- Romanian
